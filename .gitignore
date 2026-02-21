@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 编辑器
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Kiro
+.kiro/
+
+# 依赖
+node_modules/
+
+# 临时文件
+*.tmp
+*.bak
+*.backup
+
+# 导出文件
+*.pdf
+*.docx
+
+# 个人笔记（如果不想公开）
+# notes/private/
