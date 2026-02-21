@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Version-v4.0-green.svg" alt="Version">
   <img src="https://img.shields.io/badge/Papers-100+-orange.svg" alt="Papers">
   <img src="https://img.shields.io/badge/Disciplines-90-blueviolet.svg" alt="Disciplines">
-  <a href="https://github.com/YourUsername/academic-paper-writing-system/stargazers"><img src="https://img.shields.io/github/stars/YourUsername/academic-paper-writing-system?style=social" alt="Stars"></a>
+  <a href="https://github.com/l11223/thesis-master-ai/stargazers"><img src="https://img.shields.io/github/stars/l11223/thesis-master-ai?style=social" alt="Stars"></a>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YourUsername/academic-paper-writing-system.git
+git clone https://github.com/l11223/thesis-master-ai.git
 
 # 2. 将提示词发送给 AI
 #    打开 THESIS_MASTER_PROMPT.md，全选复制，粘贴到 Claude / ChatGPT / 通义千问
@@ -56,7 +56,7 @@ git clone https://github.com/YourUsername/academic-paper-writing-system.git
 ## 项目结构
 
 ```
-academic-paper-writing-system/
+thesis-master-ai/
 ├── THESIS_MASTER_PROMPT.md          # 核心提示词（完整版）
 ├── QUICK_START.md                   # 精简版提示词
 ├── 使用指南.md                       # 详细使用教程
@@ -275,7 +275,7 @@ academic-paper-writing-system/
 
 ## 贡献
 
-欢迎通过 [Issues](上传下我看看https://github.com/l11223thesis-master-aiacademic-paper-writing-system/issues) 反馈问题或提出建议。
+欢迎通过 [Issues](https://github.com/l11223/thesis-master-ai/issues) 反馈问题或提出建议。
 
 如果你希望贡献论文范例或改进提示词，请提交 Pull Request。
 
@@ -290,7 +290,7 @@ academic-paper-writing-system/
 </p>
 
 <p align="center">
-  <a href="https://star-history.com/#YourUsername/academic-paper-writing-system&Date">
-    <img src="https://api.star-history.com/svg?repos=YourUsername/academic-paper-writing-system&type=Date" alt="Star History Chart" width="600">
+  <a href="https://star-history.com/#l11223/thesis-master-ai&Date">
+    <img src="https://api.star-history.com/svg?repos=l11223/thesis-master-ai&type=Date" alt="Star History Chart" width="600">
   </a>
 </p>
